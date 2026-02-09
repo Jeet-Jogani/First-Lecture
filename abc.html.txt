@@ -14,11 +14,10 @@
 <h2>Enter your credentials</h2>
 <hr>
 <section>Social ID</section>
-<p1> Email - <br> Passowrd -  </p1>
-<h3  style="color: blue;"> Log In </h3>
+<p1> Email - jeetj.cse25@sbjit.edu.in<br> Username - Jeet-Jogani </p1>
+<h3  style="color: blue;"> Submitted! </h3>
 <hr>
 <article>Have a nice day</article>
 <footer>Thank you</footer>
 </body>
 </html>
-
