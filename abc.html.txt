@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: light wheat;">
+    <header>Details</header>
+    <Section>Personal details</Section>
+    <p>Course - CSE <br> Roll no. - CS25210</p>
+    <h1 style="color: darkgoldenrod;"> &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;CodeTantra</h1>
+<h2>Enter your credentials</h2>
+<section>social id</section>
+<p1> Email - <br> passowrd -  </p1>
+<h3  style="color: blue;"> Log In </h3>
+<article>Have a nice day</article>
+<footer>Thank you</footer>
+</body>
+</html>
