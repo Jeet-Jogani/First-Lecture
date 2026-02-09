@@ -14,10 +14,11 @@
 <h2>Enter your credentials</h2>
 <hr>
 <section>Social ID</section>
-<p1> Email - <br> passowrd -  </p1>
+<p1> Email - <br> Passowrd -  </p1>
 <h3  style="color: blue;"> Log In </h3>
 <hr>
 <article>Have a nice day</article>
 <footer>Thank you</footer>
 </body>
 </html>
+
