@@ -8,12 +8,15 @@
 <body style="background-color: light wheat;">
     <header>Details</header>
     <Section>Personal details</Section>
+    <hr>
     <p>Course - CSE <br> Roll no. - CS25210</p>
     <h1 style="color: darkgoldenrod;"> &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;CodeTantra</h1>
 <h2>Enter your credentials</h2>
-<section>social id</section>
+<hr>
+<section>Social ID</section>
 <p1> Email - <br> passowrd -  </p1>
 <h3  style="color: blue;"> Log In </h3>
+<hr>
 <article>Have a nice day</article>
 <footer>Thank you</footer>
 </body>
